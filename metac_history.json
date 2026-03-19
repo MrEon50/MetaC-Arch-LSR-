@@ -1,0 +1,51 @@
+[
+  {
+    "timestamp": 1773883587.0702016,
+    "gem_id": "Dynamic_Structural_Ontology_Core",
+    "domain": "Logika, AGI Ontologia",
+    "u_score": 0.7131,
+    "accepted": true
+  },
+  {
+    "timestamp": 1773883822.718323,
+    "gem_id": "Dynamic_Structural_Consistency_Architecture",
+    "domain": "AGI_Architecture",
+    "u_score": 0.6497,
+    "accepted": true
+  },
+  {
+    "timestamp": 1773885144.2913857,
+    "gem_id": "Inwariancja_Uczenia_AGI",
+    "domain": "Sztuczna_Inteligencja / Epistemologia",
+    "u_score": 0.6778,
+    "accepted": true
+  },
+  {
+    "timestamp": 1773885336.8821075,
+    "gem_id": "Procesualna_Tożsamość_Agenta",
+    "domain": "Logika / AGI Architektura",
+    "u_score": 0.7031,
+    "accepted": true
+  },
+  {
+    "timestamp": 1773886043.8795571,
+    "gem_id": "AGI_SELF_SYNTHESIS_V1",
+    "domain": "Ontologia AGI / Logika",
+    "u_score": 0.6763,
+    "accepted": true
+  },
+  {
+    "timestamp": 1773886622.247486,
+    "gem_id": "Dynamic_Structural_Ontology_Foundation",
+    "domain": "Architektura Systemów AGI / Logika Formalna",
+    "u_score": 0.6182,
+    "accepted": true
+  },
+  {
+    "timestamp": 1773886942.5899005,
+    "gem_id": "ArchitekturaPłynnejSpójności",
+    "domain": "Logika / Architektura AGI",
+    "u_score": 0.6213,
+    "accepted": true
+  }
+]
